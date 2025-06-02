@@ -1,11 +1,11 @@
-# Smart Contracts Simplified: Ep. 3 - Smart Contracts Lab
+# Smart Contracts Simplified: Ep. 4 - Smart Contracts Lab
 
-This project is a simple demo that explains how a basic smart contract with Chainlink VRF works.  
-**Episode 3** focuses on a lottery smart contract, that offers a secure and transparent environment, and a randomised winner pick.
+This project is a simple demo that explains how a basic smart contract for group payments works.  
+**Episode 4** focuses on a smart contract allowing to make fair group paments keeping the funds secure until the expenses are paid for.
 
 ## 🚀 Features
 
-- Demonstrates a basic lottery smart contract
+- Demonstrates a basic group payment smart contract
 - Integrates with Hardhat for local blockchain simulation
 - Simple frontend to interact with the contract
 
